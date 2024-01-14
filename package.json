@@ -1,7 +1,7 @@
 {
 	"name": "fmentor-stats-preview-mocha-better-assert",
 	"version": "1.0.0",
-	"description": "stats preview card component using mocha and better-assert testing",
+	"description": "stats preview card component using mocha and better-assert",
 	"main": "index.js",
 	"type": "module",
 	"scripts": {
